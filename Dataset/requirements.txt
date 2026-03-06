@@ -1,0 +1,16 @@
+ You will need to unzip these datsets before viewing the results of the Milestone 2 : Data cleaning:
+
+1) ACSDP5Y2019.DP03_2026-01-27T093715-20260306T175339Z-1-001
+
+2) ACSDP5Y2019.DP04_2026-01-27T094338-20260306T175452Z-1-001
+
+3) ACSDP5Y2019.DP05_2026-01-27T094648-20260306T175457Z-1-001
+
+4) cleaned-20260306T175613Z-1-001
+
+
+The FoodAccessResearch dataset is large. We have attached a drive link for easy access under dataset folder.
+
+https://drive.google.com/drive/folders/1zWSFBfd-1WWSk4ucL6MtM2FlZMdArdU-?usp=sharing
+
+
